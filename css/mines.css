@@ -1,0 +1,1014 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#topnavbar >li{
+    list-style-type: none;
+}
+#topnavbar > li > .fa{
+    display: none;
+    
+}
+#topnavbar-container{
+    display: none;
+}
+.navbar-toggle{
+    margin-top: 13px !important;
+}
+#logo{
+    margin-top: 0px;
+    width: 220px;
+}
+div > .updates{
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    margin-top: -30px;
+    font-size: 18px;
+    padding: 10px 15px 10px;
+}
+div > .updates2{
+    font-size: 18px;
+    padding: 0px 10px 0px;
+    padding-left: 20px;
+    text-align: left;
+    margin-left: 15px;
+    line-height: 30px;
+}
+button{
+    border-radius: none !important;
+    border: none !important;
+    outline: none !important;
+}
+#bestCarsCarousel{
+    margin-top: -40px !important;
+}
+.carousel-caption > .row h2{
+    font-weight: bold;
+    font-size: 16px;
+}
+.carousel-caption > .row p{
+    font-size: 12px;
+    font-weight: bold;
+}
+.carousel-caption > .row button{
+    font-size: 11px !important;
+    width: auto !important;
+    justify-content: space-between !important;
+}
+/*carousel-caption > .row */
+
+#btn{
+    margin-left: 5px !important;
+}
+.item > img{
+   opacity: 0.6;
+}
+hr{
+    color: black;
+}
+.thumbnail{
+    box-shadow: 0px 0px 10px 5px #babecc;
+}
+.thumbnail > .container{
+    padding: 20px 30px 20px !important;
+}
+.thumbnail > .container h3{
+    font-size: 18px;
+    line-height: 25px;
+}
+.thumbnail > .container h4{
+    font-size: 16px;
+    line-height: 25px;
+}
+.well > .container{
+    padding: 20px 20px 20px !important;
+}
+.well > .container img{
+    width: 50%;
+    margin-left: 50px;
+}
+.well > .container h3{
+    text-align: center;
+    font-size: 18px;
+}
+
+#button-section > a> button{
+    margin: 0px 10px 10px !important;
+}
+#picture-display h3{
+    text-align: center !important;
+    color: darkslateblue;
+}
+
+#well h3{
+    font-size: 20px;
+    color: darkslateblue;
+}
+#well .btn{
+    margin-top: 3px !important;
+}
+#well #first-select{
+    margin-bottom: 20px !important;
+}
+#events h2{
+    padding: 0px 10px 0px;
+    font-size: 25px;
+    color: darkslateblue;
+}
+#event-dates{
+    color: firebrick;
+    border-right: 2px solid grey;
+}
+#event-dates{
+    color: firebrick;
+    border-right: 2px solid grey;
+    margin-right: 0px !important;
+    width: 17% !important;
+    float: left !important;
+    font-size: 25px;
+    /*display: inline-block !important;*/
+}
+#event-details{
+    width: 100% !important;
+    margin: 0px 20px 0px !important;
+}
+    .one{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+    }
+    .two{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+        margin: 20px 0px 20px;
+    }
+    .three{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+    }
+#event-news{
+    width: 70% !important;
+    float: right;
+    margin-right: 33px;
+    padding: 0px 0px 10px;
+    font-size: 18px;
+    
+}
+#launch{
+    margin-top: 70px;
+    color: firebrick;
+    margin-bottom: 40px;
+}
+#whymines-container{
+    padding: 0px 0px 0px !important;
+    margin-left: 35px !important;
+}
+#whymines-container h2{
+    font-size: 27px;
+    color: darkslateblue;
+    text-align:left;
+}
+#whymines-container h4{
+    text-align:left;
+    color: darkslateblue;
+    padding: 0px 0px 15px ;
+    margin-left: 0px;
+    line-height: 24px;
+    font-weight: 100;
+    font-size: 25px;
+}
+#whymines-container p{
+    line-height: 25px;
+    font-size: 20px;
+    text-align: justify;
+}
+video{
+    width: 110% !important;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#moremines-header h2, hr{
+    padding: 0px 0px 0px;
+    font-size: 27px;
+    color: darkslateblue;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#moremines-body h3{
+    font-size: 20px;
+    color: firebrick;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 28px;
+    text-align: justify;
+    margin-top: 15px;
+}
+#moremines-body h4{
+    margin-left: 30px;
+    text-align: justify;
+    line-height: 27px;
+    font-size: 16px;
+}
+#hometown{
+    background-image: url(../img/slider/vlcsnap-2020.png);
+    margin-top: 50px;
+}
+#hometown h1{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px 10px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#hometown button{
+    margin-left: 30px;
+    width: 100% !important;
+    font-size: 16px !important;
+    font-weight: bold;
+    padding: 5px 10px 5px;
+    height: 40px !important;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+footer{
+    margin-top: 150px;
+    padding: 10px 20px 10px;
+    background-color:darkslateblue;
+}
+footer ul{
+    list-style-type: none;
+    display: block;
+}
+footer h5{
+    color: lightyellow;
+    font-size: 16px;
+    text-align: left;
+}
+footer img{
+    margin-bottom: 10px;
+}
+footer h3{
+    color: lightyellow;
+    font-size: 18px;
+}
+footer li{
+    color:lightyellow;
+    line-height: 25px;
+    font-size: 16px;
+}
+#quick-links li{
+    display: block;
+    line-height: 28px;
+    
+}
+#quick-links{
+    margin-top: 40px;
+}
+#quick-links a{
+    color: lightyellow;
+    
+}
+#quick-links a:hover{
+    cursor: pointer !important;
+    transform: scale(1.2) !important;
+}
+#copy-right{
+    background-color: black;
+    margin-top: 30px;
+    width: 100% !important;
+}
+#copy-right h4{
+    color: white;
+    font-weight: bold;
+    padding: 10px 0px 10px;
+    font-size: 16px;
+}
+#next{
+        width: 20;
+        margin-top: 80px;
+    }
+    #previous{
+        width: 20;
+        margin-top: 80px;
+    }
+  
+
+
+
+/*For Tablets and Ipads*/
+
+@media only screen and (min-width: 768px){
+    
+   #logo{
+    margin-top: 0px;
+       width: 80%;
+       margin-left: 20px;
+} 
+    .navbar-header{
+        height: 90px !important;
+    }
+    ul .actives{
+        margin-top: 0px !important;
+    }
+    div > .updates{
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    margin-top: -20px;
+    font-size: 25px;
+    padding: 20px 30px 20px;
+}
+
+    div > .updates2{
+    font-size: 25px;
+    padding: 0px 0px 0px;
+    padding-left: 40px;
+    text-align: justify;
+    margin-left: 15px;
+    line-height: 35px;
+}
+    #bestCarsCarousel{
+    margin-top: -30px !important;
+}
+.carousel-caption > .row h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.carousel-caption > .row p{
+    font-size: 30px;
+    font-weight: bold;
+}
+.carousel-caption > .row button{
+    font-size: 25px !important;
+    width: auto !important;
+    justify-content: space-between !important;
+}
+    #btn{
+    margin-left: 5px !important;
+}
+.item > img{
+   opacity: 0.6;
+}
+hr{
+    color: black;
+}
+    .thumbnail{
+    box-shadow: 0px 0px 10px 5px #babecc;
+}
+.thumbnail > .container{
+    width: 100% !important;
+    padding: 20px 30px 20px !important;
+}
+.thumbnail > .container h3{
+    font-size: 25px;
+    line-height: 25px;
+}
+.thumbnail > .container h4{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+    .thumbnail > .container img{
+        width: 100%;
+    }
+    .thumbnail > .container button{
+        font-size: 20px;
+        padding: 10px 0px 10px;
+    }
+    .well > .container{
+        width: 100% !important;
+    padding: 20px 20px 20px !important;
+}
+.well > .container img{
+    width: 40%;
+    margin-left: 190px;
+}
+.well > .container h3{
+    text-align: center;
+    font-size: 40px;
+}
+    #button-section{
+        margin-top: 40px !important;
+        margin-bottom: 40px !important;
+    }
+    #button-section  a button{
+        font-size: 30px;
+    margin: 0px 10px 40px !important;
+}
+#picture-display h3{
+    text-align: center !important;
+    color: darkslateblue;
+    font-size: 30px;
+}
+    #picture-display div{
+        margin-right: 40px !important;
+        margin-bottom: 40px;
+    }
+    #well h3{
+    font-size: 25px;
+    color: darkslateblue;
+}
+#well .btn{
+    margin-top: 3px !important;
+}
+#well #first-select{
+    margin-bottom: 20px !important;
+}
+    #events h2{
+    padding: 0px 10px 0px;
+        line-height: 45px;
+    font-size: 30px;
+    color: darkslateblue;
+}
+#event-dates{
+    color: firebrick;
+    border-right: 2px solid grey;
+    margin-right: 0px !important;
+    width: 10% !important;
+    float: left !important;
+    font-size: 40px;
+    /*display: inline-block !important;*/
+}
+#event-details{
+    width: 100% !important;
+    margin: 0px 100px 0px !important;
+}
+    .one{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+    }
+    .two{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+        margin: 20px 0px 20px;
+    }
+    .three{
+        width: 100% !important;
+        height: 100px !important;
+        display: inline-block;
+    }
+#event-news{
+    width: 70% !important;
+    float: right;
+    margin-right: 100px;
+    padding: 10px 0px 20px;
+    font-size: 25px;
+    
+}
+    #launch{
+    margin-top: 100px;
+    color: firebrick;
+    margin-bottom: 40px;
+        font-size: 20px;
+}
+#whymines-container{
+    width: 100% !important;
+    padding: 0px 5px 0px !important;
+    margin-left: 12px !important;
+}
+#whymines-container h2{
+    font-size: 35px;
+    color: darkslateblue;
+    text-align:left;
+}
+#whymines-container h4{
+    text-align:left;
+    color: darkslateblue;
+    padding: 0px 0px 15px ;
+    margin-left: 0px;
+    line-height: 32px;
+    font-weight: 100;
+    font-size: 25px;
+}
+#whymines-container p{
+    line-height: 32px;
+    font-size: 22px;
+    text-align: justify;
+}
+video{
+    width: 110% !important;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+    #moremines-header h2, hr{
+    padding: 0px 0px 0px;
+    font-size: 35px;
+    color: darkslateblue;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#moremines-body h3{
+    font-size: 25px;
+    color: firebrick;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 28px;
+    text-align: justify;
+    margin-top: 15px;
+}
+#moremines-body h4{
+    margin-left: 30px;
+    text-align: justify;
+    line-height: 32px;
+    font-size: 22px;
+}
+#hometown{
+    background-image: url(../img/slider/vlcsnap-2020.png);
+    margin-top: 100px;
+}
+#hometown h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    line-height: 55px;
+    padding: 20px 20px 50px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+#hometown button{
+    margin-left: 25px;
+    width: 100% !important;
+    font-size: 30px !important;
+    padding: 5px 10px 5px;
+    height: 60px !important;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+    footer{
+    margin-top: 150px;
+    padding: 10px 20px 10px;
+    background-color:darkslateblue;
+}
+footer ul{
+    list-style-type: none;
+    display: block;
+}
+footer h5{
+    color: lightyellow;
+    font-size: 20px;
+    text-align: left;
+}
+footer img{
+    margin-bottom: 30px;
+    padding: 0px 50px 0px;
+    width: 90% !important;
+}
+footer h3{
+    color: lightyellow;
+    font-size: 20px;
+}
+footer li{
+    color:lightyellow;
+    line-height: 34px;
+    font-size: 18px;
+}
+#quick-links li{
+    display: block;
+    line-height: 36px;
+    
+}
+#quick-links{
+    margin-top: 40px;
+}
+#quick-links a{
+    color: lightyellow;
+    
+}
+#quick-links a:hover{
+    cursor: pointer !important;
+    transform: scale(1.2) !important;
+}
+#copy-right{
+    background-color: black;
+    margin-top: 30px;
+    width: 100% !important;
+}
+#copy-right h4{
+    color: white;
+    font-weight: bold;
+    padding: 10px 0px 10px;
+    font-size: 20px;
+}
+    #next{
+        width: 50;
+        margin-top: 200px;
+    }
+    #previous{
+        width: 50;
+        margin-top: 200px;
+    }
+  
+    
+}
+
+
+
+
+/*For laptop screen up*/
+
+@media only screen and (min-width: 1000px){
+    #topnavbar >li{
+    list-style-type:none;
+}
+#topnavbar > li > .fa{
+    display: inline-block;
+    font-size: 19px;
+    color: white;
+    line-height: 40px;
+    
+}
+    .navbar{
+        margin-top: 40px !important;
+    }
+#topnavbar-container{
+    display: block;
+    width: 100% !important;
+    height: 40px;
+    position: relative;
+    top: -152px;
+    padding-left: 360px;
+    background-color: firebrick;
+    line-height: 40px;
+}
+    #topnavbar-container li{
+        display: inline-block;
+        margin-left: 20px;
+
+    }
+    #topnavbar-container li a{
+        color: white;
+    }
+     #logo{
+    margin-top: -5px;
+       width: 400px;
+    padding: 0px 10px 0px;
+       margin-left: 20px;
+} 
+    ul .actives{
+        margin-top: 0px !important;
+    }
+    div > .updates{
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    margin-top: -60px;
+    font-size: 25px;
+    padding: 20px 30px 20px;
+}
+    div > .updates2{
+    font-size: 25px;
+    padding: 0px 0px 0px;
+    padding-left: 40px;
+    text-align: justify;
+    margin-top: 60px;
+    margin-left: 15px;
+    line-height: 40px;
+}
+     #bestCarsCarousel{
+    margin-top: -30px !important;
+}
+.carousel-caption > .row h2{
+    font-weight: bold;
+    font-size: 45px;
+    width: 100%;
+    text-align: left;
+     margin-bottom: 80px !important;
+    word-spacing: 10px;
+    float: left ;
+}
+    .carousel-caption > .row > .col-lg-8{
+        text-align: left !important;
+        float: left !important;
+        margin-bottom: 100px !important;
+    }
+.carousel-caption > .row p{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    text-align: left;
+    margin-bottom: 80px;
+}
+.carousel-caption > .row button{
+    font-size: 25px !important;
+    width: 100% !important;
+    justify-content: space-between !important;
+    float: left;
+    margin-bottom: 30px;
+}
+    #btn{
+    margin-left: 0px !important;
+        float: left;
+}
+.item > img{
+   opacity: 0.9;
+}
+     .thumbnail{
+    box-shadow: 0px 0px 10px 5px #babecc;
+}
+.thumbnail > .container{
+    width: 100% !important;
+    padding: 20px 30px 20px !important;
+}
+.thumbnail > .container h3{
+    font-size: 25px;
+    line-height: 25px;
+}
+.thumbnail > .container h4{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+    .thumbnail > .container img{
+        width: 100%;
+        height: 60vh;
+        padding: 10px 10px 0px;
+    }
+    .thumbnail > .container #visitmines{
+        padding: 0px 20px 15px;
+    }
+    .thumbnail > .container button{
+        font-size: 20px;
+        padding: 10px 0px 10px;
+    }
+    .well{
+        margin-top: 60px;
+        margin-bottom: 40px;
+    }
+    .well > .container{
+        width: 100% !important;
+    padding: 20px 20px 20px !important;
+}
+.well > .container img{
+    width: 40%;
+    display: inline-block;
+    margin-left: 140px;
+    height: 120px;
+    justify-content: space-between;
+}
+.well > .container h3{
+    text-align: center;
+    font-size: 23px;
+    margin-left: 100px;
+}
+    #button-section{
+        width: 100%;
+        margin-top: 100px !important;
+        margin-bottom: 40px !important;
+    }
+    #button-section  a button{
+        font-size: 18px;
+        padding: 20px 0px 20px;
+    margin: 0px 0px 40px !important;
+        margin-left: -40px !important;
+}
+    #picture-display h3{
+    text-align: center !important;
+    color: darkslateblue;
+    font-size: 20px;
+}
+    #picture-display{
+        width: 100%;
+        margin-bottom: 100px;
+        margin-top: 50px;
+    }
+    #picture-display img{
+        width: 100%;
+    }
+    #picture-display div{
+        width: 20%;
+        margin-right: 0px !important;
+        margin-bottom: 40px;
+        margin-left: 60px !important;
+        justify-content: space-between !important;
+    }
+    #well h3{
+    font-size: 25px;
+    color: darkslateblue;
+}
+#well .btn{
+    margin-top: 3px !important;
+}
+#well #first-select{
+    margin-bottom: 20px !important;
+}
+     #events h2{
+    padding: 0px 10px 0px;
+        line-height: 45px;
+    font-size: 30px;
+    color: darkslateblue;
+         margin-top: 40px;
+}
+#event-dates{
+    color: firebrick;
+    border-right: 2px solid grey;
+    margin-right: 0px !important;
+    width: 20% !important;
+    float: left !important;
+    font-size: 40px;
+    /*display: inline-block !important;*/
+}
+#event-details{
+    margin-bottom: 20px;
+    width: 100% !important;
+    margin: 0px 100px 0px !important;
+}
+    .one{
+        width: 30% !important;
+        height: 100px !important;
+        display: block;
+        float: left;
+    }
+    .two{
+        width: 30% !important;
+        height: 100px !important;
+        display: block;
+        margin: 0px 0px 0px;
+        float: left;
+    }
+    .three{
+        width: 30% !important;
+        height: 100px !important;
+        display: block;
+        float: left;
+    }
+#event-news{
+    width: 50% !important;
+    float:;
+    padding: 0px 0px 0px;
+    font-size: 20px;
+    
+}
+    #launch{
+    margin-top: 100px;
+    color: firebrick;
+    margin-bottom: 40px;
+        font-size: 20px;
+}
+#whymines-container{
+    width: 100% !important;
+    margin-top: 50px;
+    padding: 0px 100px 0px !important;
+    margin-left: 12px !important;
+}
+#whymines-container h2{
+    font-size: 35px;
+    color: darkslateblue;
+    text-align:left;
+}
+#whymines-container h4{
+    text-align:left;
+    color: darkslateblue;
+    padding: 0px 0px 15px ;
+    padding-right: 20px;
+    margin-left: 0px;
+    line-height: 32px;
+    font-weight: 100;
+    font-size: 20px;
+}
+#whymines-container p{
+    line-height: 32px;
+    padding-right: 60px;
+    font-size: 16px;
+    text-align: justify;
+}
+video{
+    width: auto !important;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+    #moremines-header h2, hr{
+    padding: 0px 0px 0px;
+    font-size: 30px;
+    color: darkslateblue;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+#moremines-body h3{
+    font-size: 20px;
+    color: firebrick;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    height: 58px;
+    line-height: 28px;
+    text-align: justify;
+    margin-top: 15px;
+}
+#moremines-body h4{
+    margin-left: 0px;
+    text-align: justify;
+    line-height: 32px;
+    font-size: 18px;
+}
+#hometown{
+    background-image: url(../img/slider/vlcsnap-2020.png);
+    background-size: cover;
+    margin-top: 100px;
+}
+#hometown h1{
+    font-size: 60px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    color: white;
+    line-height: 55px;
+    padding: 20px 20px 20px;
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 150px;
+}
+#hometown button{
+    margin-left: 300px;
+    width: 100% !important;
+    font-size: 25px !important;
+    padding: 5px 10px 5px;
+    height: 60px !important;
+    text-align: center;
+    margin-bottom: 150px;
+    
+}
+     footer{
+    margin-top: 150px;
+    padding: 20px 40px 10px;
+    background-color:darkslateblue;
+}
+footer ul{
+    list-style-type: none;
+    display: block;
+}
+footer h5{
+    color: lightyellow;
+    font-size: 16px;
+    text-align: left;
+}
+footer img{
+    margin-bottom: 30px;
+    padding: 0px 50px 0px;
+    width: 100% !important;
+}
+footer h3{
+    color: lightyellow;
+    font-size: 18px;
+}
+footer li{
+    color:lightyellow;
+    line-height: 24px;
+    font-size: 16px;
+    display: block;
+}
+#quick-links li{
+    display: inline-block;
+    line-height: 36px;
+    align-self: stretch;
+    background-color: lightgrey;
+    
+}
+#quick-links{
+    margin-top: 40px;
+}
+#quick-links a{
+    color: darkslategray;
+    padding: 10px 23px 10px;
+    
+}
+#quick-links a:hover{
+    cursor: pointer !important;
+    transform: scale(1.2) !important;
+}
+#copy-right{
+    background-color: black;
+    margin-top: 30px;
+    width: 100% !important;
+}
+#copy-right h4{
+    color: white;
+    font-weight: bold;
+    padding: 10px 0px 10px;
+    font-size: 20px;
+}
+    #next{
+        width: 100;
+        margin-top: 300px;
+    }
+    #previous{
+        width: 100;
+        margin-top: 300px;
+    }
+    
+    .nav > li > a{
+        margin-left: 25px !important;
+    }
+    
+    
+}
